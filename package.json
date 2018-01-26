@@ -1,0 +1,19 @@
+{
+  "name": "github-corner-generator",
+  "version": "0.1.0",
+  "description": "This is based off of Tim Holan's [github-corners](https://github.com/tholman/github-corners) \r repo. I liked the design but it seemed tedious to implement on every page,\r especially if you change repo URLs or want to change the colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobRoseKnows/github-corner-generator.git"
+  },
+  "author": "Rob Rose (https://robrose.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobRoseKnows/github-corner-generator/issues"
+  },
+  "homepage": "https://github.com/RobRoseKnows/github-corner-generator#readme"
+}
